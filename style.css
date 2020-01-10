@@ -1,0 +1,62 @@
+body{
+   background-color: rgb(209, 209, 209);
+}
+.navBar {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: rgb(148, 187, 255);
+  font-size: 4vh ;
+}
+
+.item {
+  float: left;
+}
+
+.listOfFacts{
+  font-size: 50px;
+  text-align: center;
+  list-style: inside;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 14px;
+  text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+  background-color: rgb(173, 203, 255);
+}
+div{
+    text-align: center;
+    border-style:groove;
+    border-color: rgb(255,0,0);
+    box-shadow:5px 5px 3px;
+    margin-bottom: 30px;
+    width:50vh;
+}
+a{
+    text-align: center;
+    font-family:'pacifico', cursive;
+}
+h1{
+  color: rgb(255,255,255);
+  font-size: 100px;
+   text-align: center;
+}
+
+img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+contactme{
+   text-align: center;
+  list-style: inside;
+  
+}
